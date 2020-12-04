@@ -1,24 +1,7 @@
-# nav-menu-slider
+# VueJS navbar component
 
-## Project setup
-```
-npm install
-```
+# 👉 Subscribe to My Channel [💙❤️Youtube❤️💙](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Made with ❤️ - by [FrontEndFunn](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![preview](repoReadmeImages/preview.gif)
